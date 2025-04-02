@@ -1,4 +1,5 @@
 # Hi, Everyone!✋🏻
+
 [About this page](#about-this-page-1)
 
 -------------------
@@ -10,7 +11,7 @@ I am a programmer from China, having skills in
 3. Javascript
   - currently maintaining a project named `cardconjurer`, you can visit the repo via [this link](https://github.com/Sentixxx/cardconjurer)
 4. C#
-![a pic](https://github.com/Sentixxx/st-pic-base/blob/main/pic/37214256.jpg)
+![a pic](https://raw.githubusercontent.com/Sentixxx/st-pic-base/refs/heads/main/pic/37214256.jpg)
 
 ```python
 func just_a_func():
